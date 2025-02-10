@@ -18,13 +18,18 @@ Automation & Monitoring: Tracks file transfers and monitors system performance u
  - CloudWatch	- Monitoring system performance and logging errors
 
 # ✅ Project Highlights
-Secure Transfer: Encrypts data locally before transmission, ensuring no unauthorized access.
-Efficient Storage: Reliably stores encrypted files in AWS S3.
-Scalable Architecture: Serverless design using AWS Lambda to scale without manual intervention.
-Monitoring: Built-in logging ensures quick error resolution and performance optimization.
+ - Secure Transfer: Encrypts data locally before transmission, ensuring no unauthorized access.
+ - Efficient Storage: Reliably stores encrypted files in AWS S3.
+ - Scalable Architecture: Serverless design using AWS Lambda to scale without manual intervention.
+ - Monitoring: Built-in logging ensures quick error resolution and performance optimization.
 
 # 📊 Future Improvements
-Integrate multi-region replication for improved availability and fault tolerance.
-Add role-based access control (RBAC) to limit access to sensitive files.
-Build a web-based dashboard for tracking uploads and monitoring performance.
-Expand support for public-key cryptography (RSA).
+ - Integrate multi-region replication for improved availability and fault tolerance.
+ - Add role-based access control (RBAC) to limit access to sensitive files.
+ - Build a web-based dashboard for tracking uploads and monitoring performance.
+ - Expand support for public-key cryptography (RSA).
+
+# 🙏 Acknowledgments
+ - AWS Documentation for cloud services
+ - Node.js and Python communities
+ - Modern encryption techniques and best practices
